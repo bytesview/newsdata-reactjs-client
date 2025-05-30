@@ -1,6 +1,6 @@
 {
   "name": "newsdataapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook for NewsData.io API",
   "main": "src/useNewsDataApiClient.js",
   "keywords": ["news", "api", "react", "hook", "newsdata"],

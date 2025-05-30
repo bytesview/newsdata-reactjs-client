@@ -18,7 +18,7 @@ const Test = () => {
       }
     };
     fetch();
-  }, [latest]);
+  }, []);
 
   return (
     <div>
