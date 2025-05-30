@@ -1,7 +1,7 @@
 import { useCallback } from "react";
 import axios from "axios";
 
-const BASE_URL = "https://www.newsdata.io/web/v1";
+const BASE_URL = "https://www.newsdata.io/api/1";
 
 const ENDPOINTS = {
   latest: "news",
